@@ -1,4 +1,5 @@
 # RETO-PHP-BUCLES
+# Javier Martinez, Rafa Brotons, Ignacio Ibañez
 ¿Cómo se declara la variable o el contador?
 $contador = 0; # las variables se declaran usando el simbolo $ delante de la variable
 ¿Cómo se muestra información por consola?
